@@ -1,2 +1,5 @@
 # hello-word
-This repository is an example, just to learn.
+
+Hello!
+
+My name is Eneko and I am 23, thanks for watching.
